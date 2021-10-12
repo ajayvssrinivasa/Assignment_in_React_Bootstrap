@@ -1,0 +1,17 @@
+{
+    "Products":[
+        {"title":"Samsung","text":"$230","image":"p1.jpg"},
+        {"title":"Galxy","text":"$250","image":"p2.jpg"},
+        {"title":"Iphone3s","text":"$550","image":"p3.jpg"},
+        {"title":"Sweetshirts","text":"$130","image":"p4.jpg"},
+        {"title":"T shirts","text":"$230","image":"p5.jpg"},
+        {"title":"Coats","text":"$330","image":"p6.jpg"},
+        {"title":"Coolin glass","text":"$330","image":"p7.jpg"},
+        {"title":"Cooling GLASS","text":"$330","image":"p8.jpg"},
+        {"title":"kITCHEN ITEMS","text":"$330","image":"p9.jpg"},
+        {"title":"Water Heater","text":"$330","image":"p10.jpg"},
+        {"title":"Vessels","text":"$330","image":"p11.jpg"},
+        {"title":"Laptop","text":"$330","image":"p12.jpg"}
+
+    ]
+}

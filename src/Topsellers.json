@@ -1,0 +1,11 @@
+{
+    "topsell":[
+        
+        {"title":"Samsung","text":"$230","image":"p1.jpg"},
+        {"title":"Galxy","text":"$250","image":"p2.jpg"},
+        {"title":"Iphone3s","text":"$550","image":"p3.jpg"},
+        {"title":"Sweetshirts","text":"$130","image":"p4.jpg"}
+        
+        
+    ]
+}
